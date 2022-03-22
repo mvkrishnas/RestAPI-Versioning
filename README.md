@@ -8,7 +8,7 @@ Types of API Versioning
 
   •	Media/Header API Versioning.
       
-      Ex : https://localhost:44347/api/VersioningDemo add X-Version = 2.0 in Header or accept = application/json;ver=2.0
+      Ex : https://localhost:44347/api/VersioningDemo add X-Version = 2.0 or accept = application/json;ver=2.0 in Header
 
   •	URI Versioning.
       
